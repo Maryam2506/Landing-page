@@ -1,3 +1,6 @@
+
+## Landing Page design using React JS + Material UI
+![screencapture-localhost-3000-2021-07-28-15_19_30](https://user-images.githubusercontent.com/58718438/127308623-0cea60c1-eeb6-4a01-abdb-8c0278b33c1f.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
